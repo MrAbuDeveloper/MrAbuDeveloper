@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrAbuDeveloper
 - 👀 I’m interested in creating telegram bots
 - 🌱 I’m currently learning how to write useful and beautiful websites
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with frontend developers
 - 📫 How to reach me:You can contact me via telegram:https://t.me/Mr0208
 
 <!---
