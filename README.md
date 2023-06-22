@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrAbuDeveloper
+- 👋 Hi, I’m Mr Abdurahmon
 - 👀 I’m interested in creating telegram bots
 - 🌱 I’m currently learning how to write useful and beautiful websites
 - 💞️ I’m looking to collaborate on with frontend developers
